@@ -188,10 +188,11 @@ unrelated question about another project.
 
 ### My AI Chat
 
+https://chatgpt.com/s/cx_6b07344f5e508191aae99271b5efda36
 https://claude.ai/share/d89e2e29-c48b-4d1b-9087-fe00d539f299
 https://claude.ai/share/7430cfd6-f58c-45b9-a650-9e3ef238b551
 
-You may need to sign in to Claude to view them.
+You may need to sign in to Claude to view them. I included chatgpt in case there's a problem with Claude Shared file.
 
 
 ### What I'd improve with more time
